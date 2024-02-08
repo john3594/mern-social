@@ -10,6 +10,7 @@ import userRoutes from './routes/user.routes'
 import authRoutes from './routes/auth.routes'
 import postRoutes from './routes/post.routes'
 
+
 // modules for server side rendering
 import React from 'react'
 import ReactDOMServer from 'react-dom/server'
